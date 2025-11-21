@@ -60,7 +60,7 @@
     "@vitest/coverage-v8": "^1.6.1",
     "docsify-cli": "^4.4.4",
     "typescript": "^5.3.3",
-    "vitest": "^1.6.1"
+    "vitest": "^4.0.12"
   },
   "dependencies": {
     "commander": "^11.1.0",
