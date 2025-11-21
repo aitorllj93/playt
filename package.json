@@ -20,6 +20,7 @@
     "test:coverage": "vitest run --coverage",
     "lint": "biome check src",
     "format": "biome check --write --unsafe src",
+		"typecheck": "tsc --noEmit",
     "prepublishOnly": "npm run build",
     "docs:init": "docsify init ./docs",
     "docs:serve": "docsify serve ./docs"
@@ -48,7 +49,7 @@
   "bugs": {
     "url": "https://github.com/aitorllj93/playt/issues"
   },
-  "homepage": "https://github.com/aitorllj93/playt#readme",
+  "homepage": "https://aitorllj93.github.io/playt",
   "engines": {
     "node": ">=16.0.0"
   },
