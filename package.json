@@ -62,7 +62,7 @@
     "vitest": "^1.6.1"
   },
   "dependencies": {
-    "commander": "^11.1.0",
+    "commander": "^14.0.2",
     "gray-matter": "^4.0.3",
     "nunjucks": "^3.2.4"
   }
