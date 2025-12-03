@@ -1,5 +1,6 @@
-> [!WARNING] Archived
+> [!WARNING]
 > This project has been archived. If you are interested in something similar, you should take a look at https://github.com/google/dotprompt and https://github.com/chr15m/runprompt
+
 
 # Playt
 
